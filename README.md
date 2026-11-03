@@ -11,13 +11,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=620&lines=Building+AI-powered+business+workflows;Python+%C2%B7+Automation+%C2%B7+Backend+%26+APIs;Turning+repetitive+work+into+software;Developer+by+craft%2C+entrepreneur+by+mindset" alt="Typing headline" />
+  <img src="./assets/typing.svg" width="620" alt="Building AI-powered business workflows · Python, automation, backend and APIs · Developer by craft, entrepreneur by mindset" />
 </p>
 
 <p align="center">
-  <a href="https://sheikh-sons-entrepreneur.base44.app"><img src="https://img.shields.io/badge/Company-Sheikh_Sons_Entrepreneur-2563EB?style=for-the-badge&labelColor=080F1C" alt="Sheikh Sons Entrepreneur" /></a>
-  <img src="https://img.shields.io/badge/Based_in-Pakistan-22D3EE?style=for-the-badge&labelColor=080F1C" alt="Based in Pakistan" />
-  <img src="https://img.shields.io/badge/Open_to-Collaboration-F8FAFC?style=for-the-badge&labelColor=080F1C" alt="Open to collaboration" />
+  <a href="https://sheikh-sons-entrepreneur.base44.app"><img src="./assets/badges/01-company-sheikh-sons-entrepreneur-2563eb.svg" alt="Sheikh Sons Entrepreneur" /></a>
+  <img src="./assets/badges/02-based-in-pakistan-22d3ee.svg" alt="Based in Pakistan" />
+  <img src="./assets/badges/03-open-to-collaboration-f8fafc.svg" alt="Open to collaboration" />
 </p>
 
 <br />
@@ -132,18 +132,18 @@ Because I run a digital agency, I understand what software has to do **commercia
 ## Technologies &amp; Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,fastapi,flask&theme=dark" alt="Languages and frameworks" /><br />
-  <img src="https://skillicons.dev/icons?i=selenium,mysql,sqlite,git,github,githubactions,vscode,wordpress&theme=dark" alt="Tools and platforms" />
+  <img src="./assets/icons-languages.svg" alt="Languages and frameworks" /><br />
+  <img src="./assets/icons-tools.svg" alt="Tools and platforms" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Playwright-080F1C?style=flat-square&logo=playwright&logoColor=22D3EE" alt="Playwright" />
-  <img src="https://img.shields.io/badge/Chrome_DevTools_Protocol-080F1C?style=flat-square&logo=googlechrome&logoColor=22D3EE" alt="Chrome DevTools Protocol" />
-  <img src="https://img.shields.io/badge/OpenAI_API-080F1C?style=flat-square&logo=openai&logoColor=22D3EE" alt="OpenAI API" />
-  <img src="https://img.shields.io/badge/Claude_API-080F1C?style=flat-square&logo=anthropic&logoColor=22D3EE" alt="Claude API" />
-  <img src="https://img.shields.io/badge/REST_APIs-080F1C?style=flat-square&logo=fastapi&logoColor=22D3EE" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Cursor-080F1C?style=flat-square&logo=cursor&logoColor=22D3EE" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Shopify-080F1C?style=flat-square&logo=shopify&logoColor=22D3EE" alt="Shopify" />
+  <img src="./assets/badges/04-playwright-080f1c.svg" alt="Playwright" />
+  <img src="./assets/badges/05-chrome-devtools-protocol-080f1c.svg" alt="Chrome DevTools Protocol" />
+  <img src="./assets/badges/06-openai-api-080f1c.svg" alt="OpenAI API" />
+  <img src="./assets/badges/07-claude-api-080f1c.svg" alt="Claude API" />
+  <img src="./assets/badges/08-rest-apis-080f1c.svg" alt="REST APIs" />
+  <img src="./assets/badges/09-cursor-080f1c.svg" alt="Cursor" />
+  <img src="./assets/badges/10-shopify-080f1c.svg" alt="Shopify" />
 </p>
 
 <br />
@@ -152,7 +152,7 @@ Because I run a digital agency, I understand what software has to do **commercia
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jahanzaibabid786&theme=transparent&hide_border=true&background=080F1C&ring=2563EB&fire=22D3EE&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=94A3B8&stroke=1E293B" width="80%" alt="GitHub contribution streak" />
+  <img src="./assets/stats.svg" width="100%" alt="GitHub statistics: contributions, current streak, longest streak and public repositories" />
 </p>
 
 <p align="center">
@@ -192,10 +192,10 @@ Because I run a digital agency, I understand what software has to do **commercia
 > The sections above describe **my personal technical work**. The list below is the **full service catalogue of the company**, delivered by its team across specialist departments.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/4%2B-Years_Experience-2563EB?style=flat-square&labelColor=080F1C" alt="4+ years" />
-  <img src="https://img.shields.io/badge/30%2B-Professionals-2563EB?style=flat-square&labelColor=080F1C" alt="30+ professionals" />
-  <img src="https://img.shields.io/badge/500%2B-Projects_Delivered-2563EB?style=flat-square&labelColor=080F1C" alt="500+ projects" />
-  <img src="https://img.shields.io/badge/200%2B-Happy_Clients-2563EB?style=flat-square&labelColor=080F1C" alt="200+ clients" />
+  <img src="./assets/badges/11-4-2b-years-experience-2563eb.svg" alt="4+ years" />
+  <img src="./assets/badges/12-30-2b-professionals-2563eb.svg" alt="30+ professionals" />
+  <img src="./assets/badges/13-500-2b-projects-delivered-2563eb.svg" alt="500+ projects" />
+  <img src="./assets/badges/14-200-2b-happy-clients-2563eb.svg" alt="200+ clients" />
 </p>
 <p align="center"><sub>Figures as published on the company website.</sub></p>
 
@@ -263,7 +263,7 @@ Because I run a digital agency, I understand what software has to do **commercia
 </details>
 
 <p align="center">
-  <a href="https://sheikh-sons-entrepreneur.base44.app"><img src="https://img.shields.io/badge/Visit-sheikh--sons--entrepreneur.base44.app-22D3EE?style=for-the-badge&labelColor=080F1C" alt="Visit the company website" /></a>
+  <a href="https://sheikh-sons-entrepreneur.base44.app"><img src="./assets/badges/15-visit-sheikh-sons-entrepreneur-base44-ap.svg" alt="Visit the company website" /></a>
 </p>
 
 <br />
@@ -272,9 +272,9 @@ Because I run a digital agency, I understand what software has to do **commercia
 ## Connect With Me
 
 <p align="center">
-  <a href="https://sheikh-sons-entrepreneur.base44.app"><img src="https://img.shields.io/badge/Website-Sheikh_Sons_Entrepreneur-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=080F1C" alt="Website" /></a>
-  <a href="https://wa.me/923167787921"><img src="https://img.shields.io/badge/WhatsApp-Business-22D3EE?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=080F1C" alt="WhatsApp" /></a>
-  <a href="https://github.com/Jahanzaibabid786"><img src="https://img.shields.io/badge/GitHub-Follow-F8FAFC?style=for-the-badge&logo=github&logoColor=white&labelColor=080F1C" alt="GitHub" /></a>
+  <a href="https://sheikh-sons-entrepreneur.base44.app"><img src="./assets/badges/16-website-sheikh-sons-entrepreneur-2563eb.svg" alt="Website" /></a>
+  <a href="https://wa.me/923167787921"><img src="./assets/badges/17-whatsapp-business-22d3ee.svg" alt="WhatsApp" /></a>
+  <a href="https://github.com/Jahanzaibabid786"><img src="./assets/badges/18-github-follow-f8fafc.svg" alt="GitHub" /></a>
 </p>
 
 <p align="center">

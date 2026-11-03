@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="44" viewBox="0 0 720 44" role="img" aria-label="Building AI-powered business workflows. Python, automation, backend and APIs. Turning repetitive work into software. Developer by craft, entrepreneur by mindset.">
+  <style>
+    text{font-family:'Segoe UI',-apple-system,Helvetica,Arial,sans-serif;font-size:20px;font-weight:500;fill:#22D3EE;text-anchor:middle;opacity:0}
+    .l{animation:cycle 12s ease-in-out infinite}
+    .l2{animation-delay:3s}.l3{animation-delay:6s}.l4{animation-delay:9s}
+    @keyframes cycle{0%{opacity:0;transform:translateY(8px)}4%,21%{opacity:1;transform:translateY(0)}25%,100%{opacity:0;transform:translateY(-8px)}}
+    @media (prefers-reduced-motion:reduce){.l{animation:none}.l1{opacity:1}}
+  </style>
+  <text class="l l1" x="360" y="29">Building AI-powered business workflows</text>
+  <text class="l l2" x="360" y="29">Python · Automation · Backend &amp; APIs</text>
+  <text class="l l3" x="360" y="29">Turning repetitive work into software</text>
+  <text class="l l4" x="360" y="29">Developer by craft, entrepreneur by mindset</text>
+</svg>
